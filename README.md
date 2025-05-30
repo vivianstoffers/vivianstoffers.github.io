@@ -1,2 +1,5 @@
-# vivianstoffers.github.io
-vivianstoffers.github.io/portfolio
+# Data Scientist
+
+## Education
+Universidad del Desarrollo - Data Science and Artificial Intelligence 
+
